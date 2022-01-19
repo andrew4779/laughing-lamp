@@ -7,7 +7,7 @@ This is a simple web app by Andrew the developer....
 * Clone the repo :{git clone https://github.com/andrew4779/laughing-lamp.git }
 * No server or dependencies needed to run the code.
 ## Live link
-https://andrew4779.github.io/laughing-lamp/ .
+https://andrew4779.github.io/laughing-lamp/ 
 ## Known Bugs
 The navigation bar isn't functioning as expected
 ## Technologies Used
